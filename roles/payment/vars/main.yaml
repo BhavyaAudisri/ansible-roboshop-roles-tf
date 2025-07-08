@@ -1,0 +1,5 @@
+CART_HOST: cart.somisettibhavya.life
+USER_HOST: user.somisettibhavya.life
+RABBITMQ_HOST: rabbitmq.somisettibhavya.life
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
