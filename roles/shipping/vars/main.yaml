@@ -1,4 +1,4 @@
-MYSQL_HOST: mysql.somisettibhavya.life
+MYSQL_HOST: mysql.somisettibhavya.online
 MYSQL_ROOT_USER: root
 MYSQL_ROOT_PASSWORD: RoboShop@1
-CART_HOST: cart.somisettibhavya.life
+CART_HOST: cart.somisettibhavya.online
