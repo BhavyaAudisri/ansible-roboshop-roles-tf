@@ -1,2 +1,2 @@
-REDIS_HOST: redis.somisettibhavya.online
-MONGODB_HOST: mongodb.somisettibhavya.online
+REDIS_HOST: redis-dev.somisettibhavya.online
+MONGODB_HOST: mongodb-dev.somisettibhavya.online

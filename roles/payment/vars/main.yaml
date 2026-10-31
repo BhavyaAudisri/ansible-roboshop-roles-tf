@@ -1,5 +1,5 @@
-CART_HOST: cart.somisettibhavya.online
-USER_HOST: user.somisettibhavya.online
-RABBITMQ_HOST: rabbitmq.somisettibhavya.online
+CART_HOST: cart-dev.somisettibhavya.online
+USER_HOST: user-dev.somisettibhavya.online
+RABBITMQ_HOST: rabbitmq-dev.somisettibhavya.online
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123

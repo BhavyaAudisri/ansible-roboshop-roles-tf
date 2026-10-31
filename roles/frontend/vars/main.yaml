@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.somisettibhavya.online
-USER_HOST: user.somisettibhavya.online
-CART_HOST: cart.somisettibhavya.online
-SHIPPING_HOST: shipping.somisettibhavya.online
-PAYMENT_HOST: payment.somisettibhavya.online
+CATALOGUE_HOST: catalogue-dev.somisettibhavya.online
+USER_HOST: user-dev.somisettibhavya.online
+CART_HOST: cart-dev.somisettibhavya.online
+SHIPPING_HOST: shipping-dev.somisettibhavya.online
+PAYMENT_HOST: payment-dev.somisettibhavya.online
