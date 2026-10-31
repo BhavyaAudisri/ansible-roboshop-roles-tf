@@ -8,17 +8,6 @@
     name: common
     tasks_from: maven
 
-- name: Install Python MySQL dependencies
-  ansible.builtin.dnf:
-    name:
-      - python3-PyMySQL
-      - mysql
-      - MySQL-python
-      - python3-pip
-      - python3-devel
-      - gcc
-    state: present
-
 - name: import data
   community.mysql.mysql_db:
     name: all
