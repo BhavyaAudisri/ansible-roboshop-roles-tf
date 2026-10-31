@@ -17,7 +17,7 @@
       - python3-pip
       - python3-devel
       - gcc
-  state: present
+    state: present
 
 - name: import data
   community.mysql.mysql_db:
